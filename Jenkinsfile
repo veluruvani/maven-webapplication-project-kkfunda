@@ -62,3 +62,5 @@ pipeline
            
 
    }  //stages ending
+
+} // pipeline closed
